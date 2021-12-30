@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\2ANO_1SEMESTRE\AED\.metadata\.plugins\org.eclipse.jdt.core
-2765376034.index
-1445606575.index
